@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Student\\PI-12\\Symodeiko\\AP\\Lab07.3(it)\\Lab07.3(it)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34EE4654-C4C5-4E15-906D-3F008E5ACC40}|Lab07.3(it)\\Lab07.3(it).vcxproj|C:\\Student\\PI-12\\Symodeiko\\AP\\Lab07.3(it)\\Lab07.3(it)\\Lab07.3(it)\\Lab7.3(it).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34EE4654-C4C5-4E15-906D-3F008E5ACC40}|Lab07.3(it)\\Lab07.3(it).vcxproj|solutionrelative:Lab07.3(it)\\Lab7.3(it).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5596B5-FD4E-48F2-A40B-3DF17AAC4688}|UnitTest1\\UnitTest1.vcxproj|C:\\Student\\PI-12\\Symodeiko\\AP\\Lab07.3(it)\\Lab07.3(it)\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B5596B5-FD4E-48F2-A40B-3DF17AAC4688}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Student\\PI-12\\Symodeiko\\AP\\Lab07.3(it)\\Lab07.3(it)\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Student\\PI-12\\Symodeiko\\AP\\Lab07.3(it)\\Lab07.3(it)\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-18T14:37:32.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab7.3(it).cpp",
+              "DocumentMoniker": "C:\\Student\\PI-12\\Symodeiko\\AP\\Lab07.3(it)\\Lab07.3(it)\\Lab07.3(it)\\Lab7.3(it).cpp",
+              "RelativeDocumentMoniker": "Lab07.3(it)\\Lab7.3(it).cpp",
+              "ToolTip": "C:\\Student\\PI-12\\Symodeiko\\AP\\Lab07.3(it)\\Lab07.3(it)\\Lab07.3(it)\\Lab7.3(it).cpp",
+              "RelativeToolTip": "Lab07.3(it)\\Lab7.3(it).cpp",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAGMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-18T10:10:15.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
